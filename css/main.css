@@ -2,9 +2,9 @@
 
 	Template Name: UniLearn - Education and Courses Template
 	Template URI: http://themeforest.net/user/CreativeWS/portfolio
-	Description: "UniLearn" is a flexible HTML template, suitable for a wide variety of educational websites. Its clean design, complete with â€œflatâ€ graphics and copious white space, out-stands this template from others and makes it applicable for colleges, online courses, tutorial sites, personal blogs and may other businesses. 
+	Description: "UniLearn" is a flexible HTML template, suitable for a wide variety of educational websites. Its clean design, complete with â€œflatâ€ graphics and copious white space, out-stands this template from others and makes it applicable for colleges, online courses, tutorial sites, personal blogs and may other businesses.
 	Author URI: http://creaws.com
-	
+
 --------------------------------------------------------------------------------
 -- GENERAL
 	-- reset
@@ -103,7 +103,7 @@
 	-- hover-effect
 	-- border radius
 	-- bg video
-	
+
 */
 
 /*************************************************************************/
@@ -151,7 +151,7 @@ input, select, textarea, button {
 	-webkit-appearance: none;
 }
 html, body {
-	-webkit-text-size-adjust: none;	
+	-webkit-text-size-adjust: none;
 	width: 100%;
 	overflow-x: hidden;
 }
@@ -174,7 +174,7 @@ table {
 	border-spacing: 0;
 }
 a, button {
-	cursor: pointer;	
+	cursor: pointer;
 }
 i{
 	font-style: normal;
@@ -494,7 +494,7 @@ q:after{
 	margin-right: 3px;
 	line-height: 0px;
 	font-family: "Arial";
-	color: #cb3682; 
+	color: #cb3682;
 	display: inline-block;
 	vertical-align: bottom;
 	position: relative;
@@ -507,7 +507,7 @@ q:before {
 }
 .quotes-carousel q {
 	padding-left: 0;
-} 
+}
 q:after {
 	content: "\201D";
 	top: 16px;
@@ -668,6 +668,7 @@ html.t-pattern-8 {
 }
 .grid-col-9 {
 	width: 870px;
+	padding-left: 180px;
 }
 .grid-half{
 	width: 50%;
@@ -739,7 +740,7 @@ html.t-pattern-8 {
 		margin-left: -10px;
     	margin-right: -10px;
 	}
-	
+
 	.grid-col.grid-col-3.alt {
 		float: left;
 		width: calc(50% - 20px);
@@ -989,7 +990,7 @@ html.t-pattern-8 {
 .color-palette {
 	min-height: 60px;
 	text-align: center;
-	
+
 }
 .color-palette:first-child{
 	border-top-right-radius: 3px;
@@ -1152,7 +1153,7 @@ header:before{
 	transition: all 0.3s;
 	-ms-transition: all 0.3s;
 	-moz-transition: all 0.3s;
-	-webkit-transition: all 0.3s;	
+	-webkit-transition: all 0.3s;
 }
 .header-top-panel form.open input{
 	width: 100%;
@@ -1163,8 +1164,8 @@ header:before{
 	color: #ffffff;
 }
 .header-top-panel form input::-webkit-input-placeholder {color: #ffffff;}
-.header-top-panel form input::-moz-placeholder     {color: #ffffff;} 
-.header-top-panel form input:-moz-placeholder      {color: #ffffff;} 
+.header-top-panel form input::-moz-placeholder     {color: #ffffff;}
+.header-top-panel form input:-moz-placeholder      {color: #ffffff;}
 .header-top-panel form input:-ms-input-placeholder {color: #ffffff;}
 .header-top-panel>* {
 	float: right;
@@ -1382,7 +1383,7 @@ header:before{
 .main-nav>ul>li {
 	float: left;
 	line-height: 100px;
-	
+
 }
 .sticky-menu.double-menu:not(.second-nav) .main-nav:not(.mobile_nav)>ul>li {
 	color: #ffffff;
@@ -1961,7 +1962,7 @@ footer h2:before{
 	float: right;
 	font-family: FontAwesome;
 	color: #2d3339;
-	line-height: 25px; 
+	line-height: 25px;
 	font-size: 25px;
 }
 .footer-about h2:before{
@@ -3156,7 +3157,7 @@ hr + .tabs {
 	-moz-user-select: none;
 	-khtml-user-select: none;
 	-webkit-user-select: none;
-	user-select: none; 
+	user-select: none;
 }
 h2 + .carousel-nav + * {
 	clear: both;
@@ -3452,7 +3453,7 @@ hr + .comments {
 	    display: block !important;
 	    margin: 0 auto;
 	    width: 120px;
-	    clear: both;	
+	    clear: both;
 	}
 }
 
@@ -5142,7 +5143,7 @@ section.widget-instructor article:last-child{
 .widget-course-details .count-reviews {
 	display: inline-block;
 	font-size: 13px;
-	color: #b0b0b0;	
+	color: #b0b0b0;
 }
 .widget-course-details .count-reviews {
 	vertical-align: super;
@@ -5300,7 +5301,7 @@ section.widget-instructor article:last-child{
 }
 .category-search .select2 {
 	width: 39%;
-	margin-left: 20px; 
+	margin-left: 20px;
 }
 select.filter.full-width {
 	width: 100%;
@@ -5495,7 +5496,7 @@ select.filter.full-width {
 .cat-courses-item .info-block .hidden span {
 	font-size: 30px;
 	display: block;
-	margin-bottom: 8px; 
+	margin-bottom: 8px;
 }
 .cat-courses-item:hover .info-block .hidden {
 	opacity: 1;
@@ -5651,7 +5652,7 @@ select.filter.full-width {
 }
 .pricing-table ul li:before{
 	content:none;
-	
+
 }
 .pricing-table.color-1 .price-pt,
 .pricing-table.color-1 p,
@@ -5674,7 +5675,7 @@ select.filter.full-width {
 	color: #4bbcd7;
 }
 .pricing-table .price-pt {
-	
+
 	font-size: 77px;
 	line-height: 1.1;
 	padding-top: 18px;
@@ -5791,7 +5792,7 @@ ol.commentlist  {
 	box-sizing:border-box;
 	-moz-box-sizing: border-box;
 	-webkit-box-sizing: border-box;
-} 
+}
 .woocommerce .product .comment-form-email+*{
 	clear: both;
 }
@@ -5973,7 +5974,7 @@ ol.commentlist  {
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 	font-size: 18px;
-	letter-spacing: 2px;	
+	letter-spacing: 2px;
 }
 .comment-form-rating .stars .stars-active{
 	color: #cb3682;
@@ -6325,7 +6326,7 @@ p.form-row.form-row-wide.select-arrow:before {
 		-moz-transform: translateX(0);
 		-webkit-transform: translateX(0);
 	}
-	
+
 }
 .testimonials-carousel .owl-pagination {
 	text-align: center;
@@ -6989,7 +6990,7 @@ p.form-row.form-row-wide.select-arrow:before {
 .isotope-header h2 {
 	clear: none;
 	float: left;
-} 
+}
 .isotope-header .select-wrapper {
 	float: right;
 	width: 200px;
@@ -7039,7 +7040,7 @@ p.form-row.form-row-wide.select-arrow:before {
 }
 .select2-container.select2-container--default .select2-results__option--highlighted[aria-selected] {
 	background-color: #18bb7c;
-	
+
 }
 .select2-results__option {
 	border-top: 1px solid #b0b0b0;
@@ -7124,8 +7125,8 @@ p.form-row.form-row-wide.select-arrow:before {
 }
 .portfolio-item:hover {
 	border-color: #cb3682;
-	
-} 
+
+}
 main>.portfolio-item {
 	border-bottom: 0;
 	margin-bottom: 0;
@@ -7926,7 +7927,7 @@ input[type=radio] {
 	-webkit-appearance: none;
 	/* for FF */
 	-moz-appearance: none;
-	text-indent: 0.01px; 
+	text-indent: 0.01px;
 	text-overflow: '';
 	/* for IE */
 	-ms-appearance: none;
@@ -8192,26 +8193,26 @@ input[type=radio] {
 /* calendar month */
 /**/
 .event-container-wrap tbody{
-	display: -webkit-box;      
-	display: -moz-box;        
-	display: -ms-flexbox;     
-	display: -webkit-flex;     
-	display: flex; 
-	-webkit-flex-direction: column;	
-	-moz-flex-direction: column;	
-	-ms-flex-direction: column;	
-	flex-direction: column;	
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: column;
+	-moz-flex-direction: column;
+	-ms-flex-direction: column;
+	flex-direction: column;
 }
 .event-container-wrap tbody tr,
 .event-container-wrap thead tr{
 	width: 100%;
 	margin-bottom: 5px;
 	/*            */
-	display: -webkit-box;      
-	display: -moz-box;        
-	display: -ms-flexbox;     
-	display: -webkit-flex;     
-	display: flex; 
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
 	/*            */
    -webkit-box-pack: justify;
     -moz-box-pack: justify;
@@ -8246,11 +8247,11 @@ input[type=radio] {
 	margin-right: 5px;
 	position: relative;
 	/*            */
-	display: -webkit-box;      
-	display: -moz-box;        
-	display: -ms-flexbox;     
-	display: -webkit-flex;     
-	display: flex; 
+	display: -webkit-box;
+	display: -moz-box;
+	display: -ms-flexbox;
+	display: -webkit-flex;
+	display: flex;
 }
 .event-container-wrap tbody tr td:last-child{
 	margin-right: 0;
@@ -8520,7 +8521,7 @@ input[type=radio] {
 	.event-container .day-view-wrap tbody tr td:last-child {
 		width: 100%;
 	}
-	
+
 }
 
 /**/
