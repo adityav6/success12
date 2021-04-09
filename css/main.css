@@ -2022,11 +2022,11 @@ footer hr{ margin-bottom:10px; border:1px solid #2d3339; background:none;}
 	content: "\f015";
 }
 .footer-social a {
-	width: 38px;
-	height: 38px;
-	margin-bottom: 5px;
-	line-height: 34px;
-	font-size: 16px;
+	width: 44px;
+	height: 39px;
+	margin-bottom: -12px;
+	line-height: 35px;
+	font-size: 19px;
 	color: #f7f7f7;
 	text-align: center;
 	background-color: transparent;
@@ -2044,10 +2044,13 @@ footer hr{ margin-bottom:10px; border:1px solid #2d3339; background:none;}
 	-webkit-border-bottom-right-radius: 10px;
 }
 .footer-social a + a {
-	margin-left: 3px;
+	margin-left: px;
 }
 .footer-social a:hover{
 	background: #faaf18;
+}
+.fa fa-WhatsApp{
+	padding-top: 20px;
 }
 .footer-latest article img {
 	box-sizing: border-box;
@@ -9079,6 +9082,16 @@ abbr{
 .cws-button.twitter {
 	border-color: #5bc0de;
 	background: #5bc0de;
+	color: #ffffff;
+}
+.cws-button.twitter:hover {
+	color: #595959;
+	background: transparent;
+}
+.cws-button.WhatsApp
+{
+	border-color: #5bc0de;
+	background-color: #5bc0de
 	color: #ffffff;
 }
 .cws-button.twitter:hover {
