@@ -176,6 +176,14 @@ table {
 a, button {
 	cursor: pointer;
 }
+.header-admin {
+	text-align: center;
+	padding-left: 183px;
+	padding-top: 30px;
+	float: left;
+	margin-left: 30px;
+	width: 850px
+}
 i{
 	font-style: normal;
 }
